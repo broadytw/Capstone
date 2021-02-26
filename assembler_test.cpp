@@ -1,4 +1,5 @@
 #include <string>
+#include "assembler.h"
 
 using namespace std;
 
