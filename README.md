@@ -12,8 +12,7 @@ GUI Application for fault injection campign design in embedded systems.
 
 <h3>Short-term Goals</h3>
 <ul>
-<li>Complete design backend</li>
-<li>Test design with various debug file syntax</li>
+<li>Expand assember to various campaign configurations</li>
 </ul>
 
 <h3>Long-term Goals</h3>
@@ -27,5 +26,7 @@ GUI Application for fault injection campign design in embedded systems.
 <h2>Update Log</h2>
 <table>
 <tr><th>Date</th><th>Log</th></tr>
+<tr><td>2021/03/04</td><td>Trevor Broady - Integrated assember, compiled program and added necessary DLL files. </td></tr>
+<tr><td>Following Push</td><td>Trevor Broady - Noted that Roderick Green pushed campign-file assember.</td></tr>
 <tr><td>2021/02/04</td><td>Trevor Broady - Pushed new implementation to github</td></tr>
 </table>
