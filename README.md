@@ -10,7 +10,7 @@ Trevor Broady, Roderick Green, Maxwell Shuell
 GUI Application for fault injection campign design in embedded systems.
 </p>
 
- ![ui](https://user-images.githubusercontent.com/64280590/110009494-14059100-7ceb-11eb-9746-402f222dacd4.PNG)
+ ![Capture](https://user-images.githubusercontent.com/64280590/111883422-90f26500-8991-11eb-8587-451ddab694ba.PNG)
  
 <h3>Short-term Goals</h3>
 <ul>
