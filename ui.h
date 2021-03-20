@@ -30,17 +30,13 @@ private slots:
 
     void on_comboBox_currentIndexChanged(int index);
 
-    void on_comboBox_4_currentIndexChanged(int index);
-
-    void on_comboBox_2_currentIndexChanged(int index);
-
-    void on_comboBox_3_currentIndexChanged(int index);
-
     void on_plainTextEdit_textChanged();
 
     void on_pushButton_clicked();
 
-    void on_progressBar_valueChanged(int value);
+    void on_pushButton_2_clicked();
+
+    void getSelections();
 
 private:
     Ui::UI *ui;
