@@ -1,8 +1,13 @@
 #include "ui.h"
 #include "ui_ui.h"
+#include "assembler.h"
 #include <QFile>
 #include <QTextStream>
 #include <vector>
+#include <iostream>
+#include <fstream>
+#include <string>
+
 
 std::string reg_type = "INT";
 std::string location;
