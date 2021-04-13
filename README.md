@@ -10,7 +10,7 @@ Trevor Broady, Roderick Green, Maxwell Shuell
 GUI Application for fault injection campign design in embedded systems.
 </p>
 
- ![Capture](https://user-images.githubusercontent.com/64280590/111883422-90f26500-8991-11eb-8587-451ddab694ba.PNG)
+ ![ui](https://user-images.githubusercontent.com/64280590/114589156-683e5200-9c55-11eb-852e-9c3040a2c3ef.PNG)
  
 <h3>Short-term Goals</h3>
 <ul>
@@ -26,6 +26,7 @@ GUI Application for fault injection campign design in embedded systems.
 <h2>Update Log</h2>
 <table>
 <tr><th>Date</th><th>Log</th></tr>
+<tr><td>2021/04/13</td><td>Trevor Broady - Fixed errors in script generation for Breakpoint.</td></tr>
 <tr><td>2021/04/13</td><td>Trevor Broady - Fully integrated new version of assembling script. Added additional data signals for relevant breakpoint/time-trigger/bit-flip operations.</td></tr>
 <tr><td>2021/03/20</td><td>Trevor Broady - Removed unused cyber-attack system, Added value data type, Added capability to design campaign with multiple fault designs.</td></tr>
 <tr><td>2021/03/04</td><td>Trevor Broady - Integrated assember, compiled program and added necessary DLL files. </td></tr>

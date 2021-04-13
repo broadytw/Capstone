@@ -203,9 +203,8 @@ void UI::bf_time_fault(ofstream &file, int i) {
 void UI::w_break_fault(ofstream &file, int i) {
     file << "//*************************************\n\n";
     file << "duration = " << campaignData[i][4] << ";\n";
+    file << "exec(\"BS \\\\\\\\"  << project_name  << "\\\\" << program_source_file << "\\\\" << campaignData[i][3] << "\");\n";
     file << "flag = 1;\n";
-    file << "exec(\"BS \\\\"  << project_name  << "\\" << program_source_file << "\\" << campaignData[i][3] << "\");\n";
-    file << "exec(\"G\");\n";
     file << "while(flag) {\n";
     file << "\tif(_RBYTE(0xE00ED30) == 0x02) {\n";
     file << "\tflag = 0;\n";
