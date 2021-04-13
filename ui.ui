@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>943</width>
-    <height>600</height>
+    <height>661</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -20,7 +20,7 @@
       <x>420</x>
       <y>0</y>
       <width>521</width>
-      <height>561</height>
+      <height>611</height>
      </rect>
     </property>
     <property name="currentIndex">
@@ -36,7 +36,7 @@
         <x>10</x>
         <y>0</y>
         <width>511</width>
-        <height>231</height>
+        <height>241</height>
        </rect>
       </property>
       <property name="sizeAdjustPolicy">
@@ -303,9 +303,9 @@
       <property name="geometry">
        <rect>
         <x>10</x>
-        <y>230</y>
+        <y>250</y>
         <width>501</width>
-        <height>291</height>
+        <height>331</height>
        </rect>
       </property>
       <property name="html">
@@ -348,10 +348,10 @@ p, li { white-space: pre-wrap; }
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>0</x>
-      <y>500</y>
-      <width>411</width>
-      <height>32</height>
+      <x>60</x>
+      <y>550</y>
+      <width>291</width>
+      <height>31</height>
      </rect>
     </property>
     <property name="toolTipDuration">
@@ -365,7 +365,7 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>532</y>
+      <y>590</y>
       <width>391</width>
       <height>21</height>
      </rect>
@@ -383,7 +383,7 @@ p, li { white-space: pre-wrap; }
       <x>0</x>
       <y>0</y>
       <width>131</width>
-      <height>26</height>
+      <height>16</height>
      </rect>
     </property>
     <property name="baseSize">
@@ -413,9 +413,9 @@ p, li { white-space: pre-wrap; }
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>30</y>
+      <y>20</y>
       <width>391</width>
-      <height>231</height>
+      <height>241</height>
      </rect>
     </property>
     <property name="title">
@@ -425,9 +425,9 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>0</x>
-       <y>50</y>
+       <y>40</y>
        <width>121</width>
-       <height>26</height>
+       <height>21</height>
       </rect>
      </property>
      <item>
@@ -450,7 +450,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>0</x>
-       <y>30</y>
+       <y>20</y>
        <width>131</width>
        <height>16</height>
       </rect>
@@ -463,9 +463,9 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>140</x>
-       <y>50</y>
+       <y>40</y>
        <width>151</width>
-       <height>26</height>
+       <height>21</height>
       </rect>
      </property>
      <property name="currentIndex">
@@ -478,12 +478,7 @@ p, li { white-space: pre-wrap; }
      </item>
      <item>
       <property name="text">
-       <string>Stuck at</string>
-      </property>
-     </item>
-     <item>
-      <property name="text">
-       <string>Pointer Redirection</string>
+       <string>Overwrite</string>
       </property>
      </item>
     </widget>
@@ -491,7 +486,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>140</x>
-       <y>30</y>
+       <y>20</y>
        <width>81</width>
        <height>16</height>
       </rect>
@@ -504,7 +499,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>40</x>
-       <y>120</y>
+       <y>100</y>
        <width>113</width>
        <height>21</height>
       </rect>
@@ -514,7 +509,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>250</x>
-       <y>110</y>
+       <y>90</y>
        <width>113</width>
        <height>21</height>
       </rect>
@@ -524,7 +519,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>40</x>
-       <y>190</y>
+       <y>150</y>
        <width>113</width>
        <height>21</height>
       </rect>
@@ -534,7 +529,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>100</y>
+       <y>80</y>
        <width>141</width>
        <height>16</height>
       </rect>
@@ -547,7 +542,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>270</x>
-       <y>90</y>
+       <y>70</y>
        <width>71</width>
        <height>16</height>
       </rect>
@@ -560,7 +555,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>30</x>
-       <y>170</y>
+       <y>130</y>
        <width>131</width>
        <height>16</height>
       </rect>
@@ -573,7 +568,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>20</x>
-       <y>120</y>
+       <y>100</y>
        <width>21</width>
        <height>16</height>
       </rect>
@@ -586,9 +581,9 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>250</x>
-       <y>160</y>
+       <y>130</y>
        <width>111</width>
-       <height>26</height>
+       <height>21</height>
       </rect>
      </property>
      <property name="currentIndex">
@@ -624,7 +619,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>260</x>
-       <y>140</y>
+       <y>110</y>
        <width>91</width>
        <height>16</height>
       </rect>
@@ -637,7 +632,7 @@ p, li { white-space: pre-wrap; }
      <property name="geometry">
       <rect>
        <x>220</x>
-       <y>200</y>
+       <y>210</y>
        <width>171</width>
        <height>21</height>
       </rect>
@@ -647,6 +642,52 @@ p, li { white-space: pre-wrap; }
      </property>
      <property name="text">
       <string>Add Fault to Campaign</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_4">
+     <property name="geometry">
+      <rect>
+       <x>40</x>
+       <y>200</y>
+       <width>113</width>
+       <height>21</height>
+      </rect>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_7">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>180</y>
+       <width>151</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Trigger Condition (Line/Time)</string>
+     </property>
+    </widget>
+    <widget class="QLabel" name="label_11">
+     <property name="geometry">
+      <rect>
+       <x>250</x>
+       <y>160</y>
+       <width>111</width>
+       <height>16</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>Bit Flip Position (HEX)</string>
+     </property>
+    </widget>
+    <widget class="QLineEdit" name="lineEdit_7">
+     <property name="geometry">
+      <rect>
+       <x>250</x>
+       <y>180</y>
+       <width>113</width>
+       <height>21</height>
+      </rect>
      </property>
     </widget>
    </widget>
@@ -661,6 +702,9 @@ p, li { white-space: pre-wrap; }
     </property>
     <property name="sizeAdjustPolicy">
      <enum>QAbstractScrollArea::AdjustToContents</enum>
+    </property>
+    <property name="alternatingRowColors">
+     <bool>true</bool>
     </property>
     <attribute name="horizontalHeaderVisible">
      <bool>true</bool>
@@ -760,6 +804,16 @@ p, li { white-space: pre-wrap; }
     </column>
     <column>
      <property name="text">
+      <string>Line # / Delay</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>Bit Flip Positions</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
       <string>Trigger</string>
      </property>
     </column>
@@ -788,7 +842,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="0" column="4">
+    <item row="0" column="6">
      <property name="text">
       <string/>
      </property>
@@ -813,7 +867,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="5" column="4">
+    <item row="5" column="6">
      <property name="text">
       <string/>
      </property>
@@ -838,7 +892,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="6" column="4">
+    <item row="6" column="6">
      <property name="text">
       <string/>
      </property>
@@ -863,7 +917,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="7" column="4">
+    <item row="7" column="6">
      <property name="text">
       <string/>
      </property>
@@ -888,7 +942,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="8" column="4">
+    <item row="8" column="6">
      <property name="text">
       <string/>
      </property>
@@ -913,7 +967,7 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="9" column="4">
+    <item row="9" column="6">
      <property name="text">
       <string/>
      </property>
@@ -938,11 +992,57 @@ p, li { white-space: pre-wrap; }
       <string/>
      </property>
     </item>
-    <item row="10" column="4">
+    <item row="10" column="6">
      <property name="text">
       <string/>
      </property>
     </item>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_5">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>520</y>
+      <width>113</width>
+      <height>21</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_9">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>500</y>
+      <width>131</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Project Name</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_6">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>520</y>
+      <width>113</width>
+      <height>21</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_10">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>500</y>
+      <width>131</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Project Source File Name</string>
+    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">

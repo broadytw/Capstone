@@ -17,26 +17,25 @@ class UI : public QMainWindow
 public:
     UI(QWidget *parent = nullptr);
     ~UI();
-    int generate_script(std::string, std::string, std::string, std::string);
-    void bad_file();
-    void w_script_header(std::ofstream&, std::string, std::string, std::string);
+    int generate_script();
+    int bad_file();
+    int bad_option();
+    void w_script_header(std::ofstream&);
+    void w_function_header(std::ofstream&);
+    void w_time_fault(std::ofstream&, int);
+    void bf_time_fault(std::ofstream &, int);
+    void w_break_fault(std::ofstream &, int);
+    void bf_break_fault(std::ofstream &, int);
+
 
 private slots:
-    void on_lineEdit_textEdited(const QString &arg1);
-
-    void on_lineEdit_2_textEdited(const QString &arg1);
-
-    void on_lineEdit_3_textEdited(const QString &arg1);
-
-    void on_comboBox_currentIndexChanged(int index);
-
-    void on_plainTextEdit_textChanged();
 
     void on_pushButton_clicked();
 
     void on_pushButton_2_clicked();
 
     void getSelections();
+
 
 private:
     Ui::UI *ui;

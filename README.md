@@ -14,7 +14,6 @@ GUI Application for fault injection campign design in embedded systems.
  
 <h3>Short-term Goals</h3>
 <ul>
-<li>Expand assember make distinction between time-trigger and breakpoint</li>
 <li>Test campaigns with system-in-a-loop that Max setup</li>
 </ul>
 
@@ -27,6 +26,7 @@ GUI Application for fault injection campign design in embedded systems.
 <h2>Update Log</h2>
 <table>
 <tr><th>Date</th><th>Log</th></tr>
+<tr><td>2021/04/13</td><td>Trevor Broady - Fully integrated new version of assembling script. Added additional data signals for relevant breakpoint/time-trigger/bit-flip operations.</td></tr>
 <tr><td>2021/03/20</td><td>Trevor Broady - Removed unused cyber-attack system, Added value data type, Added capability to design campaign with multiple fault designs.</td></tr>
 <tr><td>2021/03/04</td><td>Trevor Broady - Integrated assember, compiled program and added necessary DLL files. </td></tr>
 <tr><td>Following Push</td><td>Trevor Broady - Noted that Roderick Green pushed campign-file assember.</td></tr>
